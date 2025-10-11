@@ -1,7 +1,7 @@
    {
-       "status": "active",
+       "status": "diasabled",
        "trigger": false,
-       "days": 14,
+       "days": 0,
        "message": "Plugin is working normally",
        "last_updated": "2024-01-01 12:00:00"
    }
