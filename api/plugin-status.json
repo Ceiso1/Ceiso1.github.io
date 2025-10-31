@@ -1,5 +1,5 @@
    {
-       "status": "active",
+       "status": "disabled",
        "trigger": false,
        "days": 0,
        "message": "Plugin is working normally",
