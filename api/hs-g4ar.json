@@ -1,1 +1,7 @@
-1
+{
+  "status": "active",
+  "trigger": false,
+  "days": 0,
+  "message": "System is working normally",
+  "last_updated": "2024-01-01T00:00:00Z"
+}
